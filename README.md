@@ -22,14 +22,14 @@ p {
 <head>Computer Science</head>
 
                      <meta charset="utf-8">
-      <title>Computer Science Website</title>
+      <title>This is my Computer Science Website</title>
              </head>
 <body> </body>
 <body>
     <p> This is a tested sentence</p>
     <section data-type""chapter">
     <h1 id="chapter1">About CSS</h1>
-    <p class""bluetext">This is my website Hello!,
+    <p class""bluetext">This is my website Hello!, 
     </p>
              </body>
 <h1>Testing:-)</h1>
