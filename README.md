@@ -4,7 +4,7 @@ Jchun2.github.io
 <head>
 
                      <meta charset="utf-8">
-      <title>Hello, World!</title>
+      <title>Hello, Julia!</title>
              </head>
 <body>
 
