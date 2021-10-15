@@ -35,6 +35,7 @@ p {
 <h1>Testing:-)</h1>
 <h2>my Image</h2>
 <img src="C:\Users\jchun\Downloads\computer.jpeg.png" width='100"' height='100"'/>
+<h1>Oswald</h1>
 <img src="C:\Users\jchun\Downloads\Oswald.jpg" width='100"' height='100"'/>
 <p>I'm creating a link to
 <a href="https://www.oxy.edu/">Occidental College homepage</a>.
