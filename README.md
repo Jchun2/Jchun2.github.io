@@ -28,13 +28,14 @@ p {
 <body>
     <p> This is my tested sentence</p>
     <section data-type""chapter">
-    <h1 id="chapter1">About CSS</h1>
+    <h1 id="chapter1">Go Tigers!</h1>
     <p class""bluetext">This is my website Hello!, 
     </p>
              </body>
 <h1>Testing:-)</h1>
 <h2>my Image</h2>
 <img src="C:\Users\jchun\Downloads\computer.jpeg.png" width='100"' height='100"'/>
+<img src="C:\Users\jchun\Downloads\Oswald.jpg" width='100"' height='100"'/>
 <p>I'm creating a link to
 <a href="https://www.oxy.edu/">Occidental College homepage</a>.
 </p>
