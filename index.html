@@ -29,7 +29,7 @@ p {
     <p> This is a tested sentence</p>
     <section data-type""chapter">
     <h1 id="chapter1">About CSS</h1>
-    <p class""bluetext">Professor David Paul,
+    <p class""bluetext">This is my website,
     </p>
              </body>
 <h1>Testing:-)</h1>
