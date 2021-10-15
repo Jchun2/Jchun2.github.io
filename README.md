@@ -26,7 +26,7 @@ p {
              </head>
 <body> </body>
 <body>
-    <p> This is a tested sentence</p>
+    <p> This is my tested sentence</p>
     <section data-type""chapter">
     <h1 id="chapter1">About CSS</h1>
     <p class""bluetext">This is my website Hello!, 
