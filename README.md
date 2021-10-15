@@ -22,7 +22,7 @@ p {
 <head>Computer Science</head>
 
                      <meta charset="utf-8">
-      <title>This is my Computer Science Website</title>
+      <title>This is my Computer Science Website Hello!</title>
              </head>
 <body> </body>
 <body>
