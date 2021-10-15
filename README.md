@@ -34,6 +34,6 @@ p {
              </body>
 <h1>Testing:-)</h1>
 <h2>HTML Image</h2>
-<img src="img/computer.jpg" alt="" width='5"' height='5"'>
+<img src=img/computer.jpg alt="" width='5"' height='5"'>
 </body>
 </html>
