@@ -41,6 +41,7 @@ p {
 <img src="C:\Users\jchun\Downloads\Bengal-tiger.jpg" width="100" height="100"/>
 <p>I'm creating a link to
 <a href="https://www.oxy.edu/">Occidental College homepage</a>.
+<h1>image</h1>
 <img height="50&quot;" src="C:\Users\jchun\Downloads\Jchun2.github.io\image\Occidental_College_Seal.png.png" width="50&quot;"/>
 </p>
 </body>
